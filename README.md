@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tesfu
-- 👀 I’m intereste lies in full-stack development,network design and troubleshoting,database design and adminsteration.
+- 👀 my intereste lies in full-stack development,network design and troubleshoting,database design and adminsteration.
 - 🌱 I’m currently learning information systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
